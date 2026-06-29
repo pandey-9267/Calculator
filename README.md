@@ -4,9 +4,6 @@ A small web calculator built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Open the app in your browser by clicking the link below or navigating to the file directly:
-
-- [Open Calculator](./calculator.html)
 
 ## Preview
 ![alt text](calculator.png)
